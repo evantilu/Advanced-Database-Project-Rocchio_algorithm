@@ -1,0 +1,206 @@
+Parameters: 
+Client key =  AIzaSyBBi7WOxVf_3waDwBkM_roXIMaceDCsVog
+Engine key =  91b445df8028cd711
+Please enter query: cases
+Query string updated to: 
+ cases
+Precision: 0.9
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.cases.org/
+Title: CASES: Home
+Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #2
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: Your Community · County View · County View Map Thumbnail. Forecasting ; Case, Death, & Laboratory Testing Trends by Location and Demographics · Trends in Cases and ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+Title: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Jan 20, 2022 ... Percent of confirmed or probable cases by demographics and region; Percent of cases resulting in hospitalization within age group; Percent of ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://www.vdh.virginia.gov/coronavirus/.../covid-19-in-virginia-cases/
+Title: Cases - Coronavirus
+Summary: Cases. Starting on February 1, 2022, VDH is using 2020 National Center for Health Statistics (NCHS) ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://www.icj-cij.org/en/cases
+Title: Cases | International Court of Justice
+Summary: Cases. The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) and to ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #8
+[
+URL: https://www.verizon.com/products/phone-cases/
+Title: Phone Cases for your iPhone, Samsung, and more | Verizon
+Summary: Shop Verizon for an extensive selection of phone cases. Protect your phone from accidents. Featuring products from OtterBox, Case-Mate, Kate Spade & more.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #9
+[
+URL: https://pbskids.org/oddsquad/games/cases
+Title: Odd Squad: Cases
+Summary: Change your station. Back. Odd Squad Game: Cases. Play Pause Audio On Audio Off Voice Music Sound Effects Closed Captioning Fullscreen Help Close.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #10
+[
+URL: https://ourworldindata.org/covid-cases
+Title: Coronavirus (COVID-19) Cases - Our World in Data
+Summary: Country-by-country data on confirmed cases. This page has a large number of charts on the pandemic. In the box below you can select any country you are ...
+]
+
+Relevant (Y/N) [Y]? y
+
+current_precision: 0.60
+
+Updating query for you...
+
+
+Query string updated to: 
+ cases covid
+Query string updated to: 
+ cases covid coronavirus
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #2
+[
+URL: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+Title: Coronavirus Disease 2019 (COVID-19) | CDC
+Summary: Find links to guidance and information on all topics related to COVID-19, including the ... How to Wear a N95 Respirator · Cases & Data for Your County.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://coronavirus.maryland.gov/
+Title: Maryland Department of Health: Coronavirus
+Summary: Coronavirus Disease 2019 (COVID-19) Outbreak ; Number of confirmed cases : 969,589 ; Testing % Positive : 4.49% ; Total testing volume : 18,399,620 ; Daily testing ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://www.health.state.mn.us/diseases/coronavirus/situation.html
+Title: Situation Update for COVID-19 - Minnesota Dept. of Health
+Summary: Graph of confirmed cases of COVID-19 by specimen collection date, ... for 2019 novel coronavirus disease (COVID-19) (PDF).
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://coronavirus.jhu.edu/map.html
+Title: COVID-19 Map - Johns Hopkins Coronavirus Resource Center
+Summary: Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: COVID Data Tracker. Find maps and charts tracking cases, deaths, and trends of COVID-19 in the United States, updated daily by 8 pm ET ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://covid19.who.int/
+Title: WHO Coronavirus (COVID-19) Dashboard
+Summary: World Health Organization Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #8
+[
+URL: https://www.vdh.virginia.gov/coronavirus/see-the.../covid-19-in-virginia/
+Title: COVID-19 Data In Virginia - Coronavirus
+Summary: Case, hospitalization, and death data reflect Virginia residents only. ... COVID-19 Cases & Testing Dashboards ... COVID-19 Vaccine Dashboards.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #9
+[
+URL: https://www.arcgis.com/apps/.../bda7594740fd40299423467b48e9ecf6
+Title: Coronavirus COVID-19 (2019-nCoV)
+Summary: COVID-19 Dashboard. by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). Last Updated at (M/D/YYYY). Total Cases.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #10
+[
+URL: https://www.mass.gov/info-details/covid-19-response-reporting
+Title: COVID-19 Response Reporting | Mass.gov
+Summary: Daily and cumulative reports on Massachusetts COVID-19 cases, testing, and hospitalizations. Additional reports include nursing facility data, cases by ...
+]
+
+Relevant (Y/N) [Y]? y
+======================
+FEEDBACK SUMMARY
+Query  cases covid coronavirus
+Precision  1.00
+Desired precision reached, done

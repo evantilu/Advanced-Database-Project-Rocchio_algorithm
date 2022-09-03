@@ -1,0 +1,638 @@
+1. Query One: Per Se
+
+Parameters: 
+Client key =  AIzaSyBBi7WOxVf_3waDwBkM_roXIMaceDCsVog
+Engine key =  91b445df8028cd711
+Please enter query: Per Se
+Query string updated to: 
+ per se
+Precision: 0.9
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #2
+[
+URL: https://www.merriam-webster.com/dictionary/perse
+Title: Perse Definition & Meaning - Merriam-Webster
+Summary: We generally use per se to distinguish between something in its narrow sense and some larger thing that it represents. Thus, you may have no objection to ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #3
+[
+URL: https://en.wiktionary.org/wiki/per_se
+Title: per se - Wiktionary
+Summary: In and of itself; by itself; without determination by or involvement of extraneous factors; as such quotations ▽ · (chiefly in negative polarity environments) ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #4
+[
+URL: https://en.wikipedia.org/wiki/Per_se
+Title: Per se - Wikipedia
+Summary: per se, a Latin phrase meaning "by itself" or "in itself". Illegal per se, the legal usage in criminal and antitrust law; Negligence per se, legal use in tort ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #5
+[
+URL: https://www.exploretock.com/perse
+Title: Per Se - New York, NY | Tock
+Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://www.instagram.com/perseny/?hl=en
+Title: Per Se (@perseny) • Instagram photos and videos
+Summary: Per Se Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://www.yelp.com/biz/per-se-new-york
+Title: PER SE - 6768 Photos & 1716 Reviews - French - 10 Columbus Cir ...
+Summary: 1716 reviews of Per Se "This is Thomas Keller's new resturant in New York. A must if you can get a reservation."
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #8
+[
+URL: https://www.vocabulary.com/dictionary/per%20se
+Title: Per se - Definition, Meaning & Synonyms | Vocabulary.com
+Summary: Per se is the phrase to use when you want to refer to a particular thing on its own. It is not this Latin phrase, per se, that is important, but rather the ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #9
+[
+URL: https://www.law.cornell.edu/wex/per_se
+Title: per se | Wex | US Law | LII / Legal Information Institute
+Summary: For example, in tort law, a statutory violation is negligence per se. One of the elements a person has to prove in a negligence claim is that the defendant ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #10
+[
+URL: https://dictionary.cambridge.org/dictionary/english/per-se
+Title: PER SE | meaning in the Cambridge English Dictionary
+Summary: 5 days ago ... per se | American Dictionary ... by or of itself: It is not a pretty town per se, but it is where my family comes from, so I like it.
+]
+
+Relevant (Y/N) [Y]? n
+
+current_precision: 0.40
+
+Updating query for you...
+
+
+Query string updated to: 
+ per se new
+Query string updated to: 
+ per se new keller
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.thomaskeller.com/perseny
+Title: Per Se | Thomas Keller Restaurant Group
+Summary: New York; Per Se; Las Vegas; Bouchon Bistro · Bouchon Bakery; Miami; The Surf Club Restaurant. Publications. Cookbooks · Finesse Magazine · MasterClass.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #2
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+Title: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Keller is still trotting them out. The name Per Se, after all, was chosen to suggest that New York would not simply reflect California's glory; ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/todays-menus
+Title: Today's Menus | Thomas Keller Restaurant Group
+Summary: ... tasting menu, as well as a nine-course vegetable tasting menu. No single ingredient is ever repeated throughout the meal. New menu page coming soon.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+Title: Per Se (restaurant) - Wikipedia
+Summary: Per Se is a New American and French restaurant located on the fourth floor of the Time Warner Center at 10 Columbus Circle in Manhattan in New York City, ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://www.thomaskeller.com/new-york-new-york/per-se/restaurant
+Title: Per Se entrance sign
+Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed New York interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://www.townandcountrymag.com/.../thomas-keller-per-se-new-york- times-review/
+Title: Thomas Keller Responds to New York Times Review of Per Se ...
+Summary: Sep 8, 2016 ... Can Thomas Keller Turn Around Per Se? The country's leading chef responds to that devastating New York Times review and talks about the ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://ny.eater.com/.../7/.../per-se-thomas-keller-corey-chow-nyc-restaurants
+Title: Manhattan Restaurant Per Se from Thomas Keller May Finally Be a ...
+Summary: Jul 24, 2019 ... New York being the financial capital of the U.S., there is no shortage of wealthy diners to populate the once-iconic Columbus Circle ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #8
+[
+URL: https://www.amazon.com/French-Laundry-Se-Thomas-Keller/.../1579658490
+Title: The French Laundry, Per Se (The Thomas Keller Library) Hardcover
+Summary: “Culinary demigod Thomas Keller's [new] cookbook . . . is a compendium of signature recipes from his two 3-Michelin star restaurants, an intimate look at how ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #9
+[
+URL: https://ny.eater.com/2014/12/4/7310871/per-se-review-thomas-keller
+Title: Once an Icon, Per Se Is Showing Its Age - Eater NY
+Summary: Dec 4, 2014 ... The faux doors were also a reminder that, like any good New Yorker, ... Per Se, by chef Thomas Keller, was, and still is, one of the ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #10
+[
+URL: https://www.eater.com/.../kwame-onwuachi-memoir-per-se-thomas-keller- notes-from-a-young-black-chef
+Title: Kwame Onwuachi's Memoir Reveals Kitchen Abuse at Thomas ...
+Summary: Mar 26, 2019 ... 'The Kitchen at Per Se Was a Clean Place but Hard and Heartless Too' ... Onwuachi worked as an anonymous chef in New York City kitchens.
+]
+
+Relevant (Y/N) [Y]? y
+======================
+FEEDBACK SUMMARY
+Query  per se new keller
+Precision  1.00
+Desired precision reached, done
+
+
+
+
+
+
+#################################################################################
+2. Query Two: Brin
+
+Parameters: 
+Client key =  AIzaSyBBi7WOxVf_3waDwBkM_roXIMaceDCsVog
+Engine key =  91b445df8028cd711
+Please enter query: brin
+Query string updated to: 
+ brin
+Precision: 0.9
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.davidbrin.com/
+Title: worlds of David Brin
+Summary: David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #2
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://brinandbrin.com/
+Title: Brin & Brin LLC – Law Firm
+Summary: The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #4
+[
+URL: https://www.bringlass.com/
+Title: Brin Glass: Commercial Glass Company
+Summary: Brin Glass provides commercial glass services including wholesale distribution and fabrication of glass and architectural aluminum products, glass service ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #5
+[
+URL: https://www.postgresql.org/docs/13/brin-intro.html
+Title: Documentation: 13: 67.1. Introduction - PostgreSQL
+Summary: BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #6
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: 6 Sergey Brin on the 2021 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://www.postgresql.org/docs/13/brin.html
+Title: Documentation: 13: Chapter 67. BRIN Indexes - PostgreSQL
+Summary: BRIN Indexes. Prev · Up, Part VII. Internals, Home · Next. Chapter 67. BRIN Indexes. Table of Contents. 67.1. Introduction · 67.1.1. Index Maintenance.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #8
+[
+URL: https://en.wiktionary.org/wiki/brin
+Title: brin - Wiktionary
+Summary: NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #9
+[
+URL: https://www.brinlevinson.com/
+Title: Brin Levinson
+Summary: The Art of Brin Levinson.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #10
+[
+URL: https://www.biography.com/business-figure/sergey-brin
+Title: Sergey Brin - Education, Google & Wife - Biography
+Summary: Aug 11, 2015 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two becoming billionaires as Google developed into the world's ...
+]
+
+Relevant (Y/N) [Y]? y
+
+current_precision: 0.30
+
+Updating query for you...
+
+
+Query string updated to: 
+ brin sergey
+Query string updated to: 
+ brin sergey google
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+Title: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and Internet entrepreneur. Together with Larry Page, he co-founded Google.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #2
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+Title: Sergey Brin
+Summary: REAL TIME NET WORTH · Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://www.theverge.com/.../google-alphabet-larry-page-sergey-brin-sundar- pichai-co-founders-ceo-timeline
+Title: Google co-founders Larry Page and Sergey Brin: a timeline of their ...
+Summary: Dec 4, 2019 ... Larry Page and Sergey Brin founded Google in 1996 on the back of an algorithm, turned it into one of the most valuable companies in the ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://www.biography.com/business-figure/sergey-brin
+Title: Sergey Brin - Education, Google & Wife - Biography
+Summary: Aug 11, 2015 ... Sergey Brin is a computer scientist who created Google with Larry Page, the two becoming billionaires as Google developed into the world's ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://www.britannica.com/biography/Sergey-Brin
+Title: Sergey Brin | Biography, Google, & Facts | Britannica
+Summary: Sergey Brin, American computer scientist and entrepreneur who created, along with Larry Page, the online search engine Google, one of the most successful ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://www.vanityfair.com/style/.../sergey-brin-amanda-rosenberg-affair
+Title: Sergey Brin and Amanda Rosenberg: Inside the Google Co ...
+Summary: Mar 12, 2014 ... The story behind Google co-founder Sergey Brin's liaison with Google Glass marketing manager Amanda Rosenberg—and his split from his wife, ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://www.theguardian.com/.../google-sergey-brin-synthetic-beef- hamburger
+Title: Google's Sergey Brin bankrolled world's first synthetic beef ...
+Summary: Aug 5, 2013 ... The billionaire co-founder of Google, Sergey Brin, said he invested €250000 in the technology for animal welfare reasons.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #8
+[
+URL: https://www.nbcnews.com/.../googles-sergey-brin-explains-why-he-paid-330- 000-lab-6c10853442
+Title: Google's Sergey Brin explains why he paid $330,000 for lab burger
+Summary: Aug 5, 2013 ... Google's Sergey Brin explains why he paid $330,000 for lab burger. When scientists brought out a hamburger created in a laboratory for its ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #9
+[
+URL: https://www.weforum.org/.../01/google-sergey-brin-i-didn-t-see-ai-coming/
+Title: Sergey Brin: I didn't see AI coming | World Economic Forum
+Summary: Jan 19, 2017 ... Sergey Brin, the co-founder of Google and one of the most successful Silicon Valley entrepreneurs, says he did not foresee the artificial ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #10
+[
+URL: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos- 2016-12
+Title: Sergey Brin: Life of Google Cofounder, Former Alphabet President
+Summary: Dec 3, 2019 ... Google cofounder Sergey Brin is stepping down as Alphabet's president. Take a look inside his eccentric and wildly successful life.
+]
+
+Relevant (Y/N) [Y]? y
+======================
+FEEDBACK SUMMARY
+Query  brin sergey google
+Precision  1.00
+Desired precision reached, done
+
+
+
+
+
+
+#################################################################################
+Query Three: cases
+
+Parameters: 
+Client key =  AIzaSyBBi7WOxVf_3waDwBkM_roXIMaceDCsVog
+Engine key =  91b445df8028cd711
+Please enter query: cases
+Query string updated to: 
+ cases
+Precision: 0.9
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.cases.org/
+Title: CASES: Home
+Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #2
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: Your Community · County View · County View Map Thumbnail. Forecasting ; Case, Death, & Laboratory Testing Trends by Location and Demographics · Trends in Cases and ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+Title: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://www.dhs.wisconsin.gov/covid-19/cases.htm
+Title: COVID-19: Wisconsin Cases | Wisconsin Department of Health ...
+Summary: Jan 20, 2022 ... Percent of confirmed or probable cases by demographics and region; Percent of cases resulting in hospitalization within age group; Percent of ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://www.vdh.virginia.gov/coronavirus/.../covid-19-in-virginia-cases/
+Title: Cases - Coronavirus
+Summary: Cases. Starting on February 1, 2022, VDH is using 2020 National Center for Health Statistics (NCHS) ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://www.icj-cij.org/en/cases
+Title: Cases | International Court of Justice
+Summary: Cases. The Court has a twofold role: to settle, in accordance with international law, legal disputes submitted to it by States (contentious cases) and to ...
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #8
+[
+URL: https://www.verizon.com/products/phone-cases/
+Title: Phone Cases for your iPhone, Samsung, and more | Verizon
+Summary: Shop Verizon for an extensive selection of phone cases. Protect your phone from accidents. Featuring products from OtterBox, Case-Mate, Kate Spade & more.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #9
+[
+URL: https://pbskids.org/oddsquad/games/cases
+Title: Odd Squad: Cases
+Summary: Change your station. Back. Odd Squad Game: Cases. Play Pause Audio On Audio Off Voice Music Sound Effects Closed Captioning Fullscreen Help Close.
+]
+
+Relevant (Y/N) [Y]? n
+
+Result #10
+[
+URL: https://ourworldindata.org/covid-cases
+Title: Coronavirus (COVID-19) Cases - Our World in Data
+Summary: Country-by-country data on confirmed cases. This page has a large number of charts on the pandemic. In the box below you can select any country you are ...
+]
+
+Relevant (Y/N) [Y]? y
+
+current_precision: 0.60
+
+Updating query for you...
+
+
+Query string updated to: 
+ cases covid
+Query string updated to: 
+ cases covid coronavirus
+Google Search Results: 
+======================
+
+Result #1
+[
+URL: https://www.worldometers.info/coronavirus/
+Title: COVID Live - Coronavirus Statistics - Worldometer
+Summary: Live statistics and coronavirus news tracking the number of confirmed cases, recovered patients, tests, and death toll due to the COVID-19 coronavirus from ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #2
+[
+URL: https://www.cdc.gov/coronavirus/2019-ncov/index.html
+Title: Coronavirus Disease 2019 (COVID-19) | CDC
+Summary: Find links to guidance and information on all topics related to COVID-19, including the ... How to Wear a N95 Respirator · Cases & Data for Your County.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #3
+[
+URL: https://coronavirus.maryland.gov/
+Title: Maryland Department of Health: Coronavirus
+Summary: Coronavirus Disease 2019 (COVID-19) Outbreak ; Number of confirmed cases : 969,589 ; Testing % Positive : 4.49% ; Total testing volume : 18,399,620 ; Daily testing ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #4
+[
+URL: https://www.health.state.mn.us/diseases/coronavirus/situation.html
+Title: Situation Update for COVID-19 - Minnesota Dept. of Health
+Summary: Graph of confirmed cases of COVID-19 by specimen collection date, ... for 2019 novel coronavirus disease (COVID-19) (PDF).
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #5
+[
+URL: https://coronavirus.jhu.edu/map.html
+Title: COVID-19 Map - Johns Hopkins Coronavirus Resource Center
+Summary: Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #6
+[
+URL: https://covid.cdc.gov/covid-data-tracker/
+Title: CDC COVID Data Tracker
+Summary: COVID Data Tracker. Find maps and charts tracking cases, deaths, and trends of COVID-19 in the United States, updated daily by 8 pm ET ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #7
+[
+URL: https://covid19.who.int/
+Title: WHO Coronavirus (COVID-19) Dashboard
+Summary: World Health Organization Coronavirus disease situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, ...
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #8
+[
+URL: https://www.vdh.virginia.gov/coronavirus/see-the.../covid-19-in-virginia/
+Title: COVID-19 Data In Virginia - Coronavirus
+Summary: Case, hospitalization, and death data reflect Virginia residents only. ... COVID-19 Cases & Testing Dashboards ... COVID-19 Vaccine Dashboards.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #9
+[
+URL: https://www.arcgis.com/apps/.../bda7594740fd40299423467b48e9ecf6
+Title: Coronavirus COVID-19 (2019-nCoV)
+Summary: COVID-19 Dashboard. by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). Last Updated at (M/D/YYYY). Total Cases.
+]
+
+Relevant (Y/N) [Y]? y
+
+Result #10
+[
+URL: https://www.mass.gov/info-details/covid-19-response-reporting
+Title: COVID-19 Response Reporting | Mass.gov
+Summary: Daily and cumulative reports on Massachusetts COVID-19 cases, testing, and hospitalizations. Additional reports include nursing facility data, cases by ...
+]
+
+Relevant (Y/N) [Y]? y
+======================
+FEEDBACK SUMMARY
+Query  cases covid coronavirus
+Precision  1.00
+Desired precision reached, done
